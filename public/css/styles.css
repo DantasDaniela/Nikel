@@ -1,5 +1,5 @@
 #login{
-    background: linear-gradient(120deg, #4c79d3 44.9%, #ffff 45% ) no-repeat fixed;
+    background: linear-gradient(120deg, #1349b6 44.9%, #ffff 45% ) no-repeat fixed;
 }
 
 #app {
@@ -9,7 +9,7 @@
 header {
     border-bottom: 1px solid #bebcbc;
     padding: 5px;
-    background-color: #ffff;
+    background-color:#ffff;
 }
 
 .color-primary{
@@ -29,7 +29,7 @@ color: #4c79d3;
 }
 
 .text-login {
-    color:#ffff;
+    color: white;
     font-size: 18px;
     font-weight: 500;
 }
